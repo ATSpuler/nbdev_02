@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_02"
+  site-url: "https://ATSpuler.github.io/nbdev_02"
+  description: "learning nbdev to contribute to shell_sage"
+  repo-branch: main
+  repo-url: "https://github.com/ATSpuler/nbdev_02"
